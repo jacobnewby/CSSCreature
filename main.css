@@ -1,0 +1,141 @@
+h1{
+    text-align: center;
+    position: relative;
+    top: 400px;
+  }
+  .lilypad{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    position: relative;
+    left: 500px;
+    border-radius: 200px;
+      bottom: 500px
+  }
+  .head{
+    background-color: lightgreen;
+    height: 250px;
+    width: 300px;
+    margin: auto;
+    border-radius: 1000px;
+    margin-top: 50px;
+    box-shadow: 0px 1px 3px;
+    position: relative;
+    top: 800px;
+    left: 38px;
+  }
+  .tail{
+    background-color: lightgreen;
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    position: relative;
+    top: 600px;
+    left: 250px;
+    border-radius: 1000px;
+  }
+  .taildiv{
+    background-color: lightblue;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margins: auto;
+    left: 850px;
+    border-radius: 50px;
+    top: 350px;
+  }
+  .tail2{
+      background-color: lightgreen;
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    position: relative;
+    top: 300px;
+    left: 450px;
+    border-radius: 1000px;
+  }
+  .taildiv2{
+    background-color: lightblue;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margins: auto;
+    left: 1040px;
+    border-radius: 50px;
+    top: 240px;
+  }
+  .eye{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border: 1px solid black;
+    box-shadow: 0px 1px 3px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    left: -40px;
+    border-radius: 30px
+  }
+  .eye2{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border: 1px solid black;
+    box-shadow: 0px 1px 3px;
+    margin: auto;
+    position: relative;
+    top: 0px;
+    left: -40px;
+    border-radius: 30px
+  }
+  body{
+    background-color: lightblue;
+  }
+  .lilypad2{
+   height: 300px;
+    width: 300px;
+    background-color: green;
+    position: relative;
+    left: 100px;
+    border-radius: 200px;
+      bottom: 800px 
+  }
+  .lilypad3{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    position: relative;
+    left: 900px;
+    border-radius: 200px;
+      bottom: 1100px
+  }
+  .divider{
+    background-color: lightblue;
+    position: relative;
+    height: 60px;
+    width: 160px;
+    margins: auto;
+    bottom: 1280px;
+    left: 50px;
+    border-radius: 10px;
+  }
+  .divider2{
+    background-color: lightblue;
+    position: relative;
+    height: 60px;
+    width: 160px;
+    margins: auto;
+    left: 700px;
+    bottom: 1340px;
+    border-radius: 10px;
+  }
+  .divider3{
+    background-color: lightblue;
+    position: relative;
+    height: 160px;
+    width: 60px;
+    margins: auto;
+    left: 1020px;
+    bottom: 1350px;
+    border-radius: 10px;
+  }
